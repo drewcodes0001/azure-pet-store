@@ -1,7 +1,9 @@
-# Here you will find various [Azure](https://ms.portal.azure.com/) demos & learning guides that are meant to help you build awesome stuff on Azure.
-
-## [View Azure Pet Store Learning Guides](https://github.com/chtrembl/azure-cloud/tree/main/petstore)
-
-Extensive Azure learning guides for a hypothetical Azure Pet Store walking you thorugh many Azure services and development scenarios using pre built web applications and microdervices.
-
-> You can view the live deployment here https://azurepetstore.com
+# Azure Pet Store Notes
+My notes for any hiccups or notable things encountered along the way. 
+## Setting up the environment
+Set up an upstream branch to get any future changes from the original cloned repository. To get the changes do the following:
+```
+git fetch upstream
+git checkout main
+git merge upstream/main
+```
