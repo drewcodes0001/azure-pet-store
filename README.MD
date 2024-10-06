@@ -7,3 +7,4 @@ git fetch upstream
 git checkout main
 git merge upstream/main
 ```
+- For future reference if needed, I named the resource group azurepetstore-rg instead of azurepetstorerg. 
