@@ -12,4 +12,4 @@ git merge upstream/main
 ## 03 Configure App Service for continuous deployment
 Skipped to this step to utlize Azure DevOps Pipelines and GitHub Actions to do the build & deploys rather than do so locally. 
 
-10/11 Error running workflow in GitHub Actions...
+10/11 Error running workflow in GitHub Actions... testing if it works?
