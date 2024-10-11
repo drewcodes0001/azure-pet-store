@@ -12,4 +12,8 @@ git merge upstream/main
 ## 03 Configure App Service for continuous deployment
 Skipped to this step to utlize Azure DevOps Pipelines and GitHub Actions to do the build & deploys rather than do so locally. 
 
-10/11 Error running workflow in GitHub Actions... testing if it works?
+## 04 - Configure Git Hub Action for CI/CD into App Service
+Delete the "Upload Maven build artifact" task to avoid errors when running Actions workflow.
+
+## 05 - Create an Azure Kubernetes Cluster and configure NGINX Ingress controller
+TODO
